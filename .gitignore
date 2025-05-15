@@ -1,0 +1,17 @@
+.vs
+**bin
+**obj
+/build
+.env
+.vscode
+
+# Ignore .NET build output folders
+**/bin/
+**/obj/
+
+bin/
+obj/
+**/bin/Debug/net9.0
+**/bin/Release/
+**/obj/Debug/
+**/obj/Release/
